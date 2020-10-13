@@ -16,7 +16,7 @@ export default {
             count.value ++;
         };
         return {
-            count,
+            count, 
             countAdd
         }
     }
